@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "average": "^1.0.0",
+    "beerq": "^1.0.1",
+    "evenly": "^1.0.2",
     "express": "^4.17.1"
   }
 }
